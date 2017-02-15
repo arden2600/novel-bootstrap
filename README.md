@@ -3,4 +3,4 @@
 <1>名字查询
 <2>目录查询
 <3>章节查询 现在仅仅是写了个调用AHOWAPI查询名字的页面。后面有时间在玩玩了。
-![image](https://github.com/xianSkyKing/novel-bootstrap/search_name.jpg)
+![image](https://github.com/xianSkyKing/novel-bootstrap/search_name.png)
