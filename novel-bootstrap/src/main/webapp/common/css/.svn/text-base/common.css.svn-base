@@ -1,0 +1,8 @@
+.textbox {
+	height:22px;
+	padding:0 2px;
+}
+<!--按钮居中样式-->
+.dialog-button {
+	text-align:center;
+}
